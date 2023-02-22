@@ -2,6 +2,7 @@
 
 /**
  * is_chain - test if current char in buffer is a chain delimeter
+ * by Micheal and Ciny
  * @info: the parameter struct
  * @buf: the char buffer
  * @p: address of current position in buf
