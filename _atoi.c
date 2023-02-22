@@ -5,6 +5,7 @@
  * @info: struct address
  *
  * Return: 1 if interactive mode, 0 otherwise
+ * by Micheal and Ciny
  */
 int interactive(info_t *info)
 {
