@@ -2,6 +2,7 @@
 
 /**
  * **strtow - splits a string into words. Repeat delimiters are ignored
+ * by Micheal and Ciny
  * @str: the input string
  * @d: the delimeter string
  * Return: a pointer to an array of strings, or NULL on failure
