@@ -3,6 +3,7 @@
 /**
  * list_len - determines length of linked list
  * @h: pointer to first node
+ * by Micheal and Ciny
  *
  * Return: size of list
  */
