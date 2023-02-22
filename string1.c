@@ -2,6 +2,7 @@
 
 /**
  * _strcpy - copies a string
+ * by Micheal and Ciny
  * @dest: the destination
  * @src: the source
  *
