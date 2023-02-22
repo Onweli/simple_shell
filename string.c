@@ -2,6 +2,7 @@
 
 /**
  * _strlen - returns the length of a string
+ * by Micheal and Ciny
  * @s: the string whose length to check
  *
  * Return: integer length of string
