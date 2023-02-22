@@ -5,6 +5,7 @@
  *@dest: the destination string to be copied to
  *@src: the source string
  *@n: the amount of characters to be copied
+ * by Micheal and Ciny
  *Return: the concatenated string
  */
 char *_strncpy(char *dest, char *src, int n)
