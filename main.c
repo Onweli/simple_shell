@@ -4,6 +4,7 @@
  * main - entry point
  * @ac: arg count
  * @av: arg vector
+ * by Micheal and Ciny
  *
  * Return: 0 on success, 1 on error
  */
